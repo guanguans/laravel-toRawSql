@@ -31,7 +31,7 @@
         "symfony/var-dumper": "^5.4 || ^6.0 || ^7.0"
     },
     "require-dev": {
-        "brainmaestro/composer-git-hooks": "^2.8",
+        "brainmaestro/composer-git-hooks": "^3.0",
         "ergebnis/composer-normalize": "^2.20",
         "friendsofphp/php-cs-fixer": "^3.4",
         "guanguans/ai-commit": "dev-main",
